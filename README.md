@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Mathematics major looking for a Data Science / ML Internship. <br>Focused on statistical modeling, data analysis, and <br>machine learning. <br>Fluent in English and Polish (B2+).
 
 
